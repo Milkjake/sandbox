@@ -1,0 +1,13 @@
+###Pagination and sorting
+- https://dzone.com/articles/java-using-specification
+- https://leaks.wanari.com/2018/01/23/awesome-spring-specification/
+- https://www.baeldung.com/spring-data-jpa-pagination-sorting
+- https://dzone.com/articles/pagination-and-sorting-with-spring-data-jpa
+- https://www.logicbig.com/tutorials/spring-framework/spring-data/specifications.html
+- https://dzone.com/articles/using-spring-data-jpa-specification
+- https://www.baeldung.com/spring-data-criteria-queries
+- https://www.baeldung.com/rest-api-search-language-spring-data-specifications
+- https://blog.tratif.com/2017/11/23/effective-restful-search-api-in-spring/
+- https://reflectoring.io/spring-boot-paging/
+- https://dzone.com/articles/conditional-pagination-and-sorting-using-restful-w
+-https://dzone.com/articles/pagination-in-springboot-applications
