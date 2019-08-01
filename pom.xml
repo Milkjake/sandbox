@@ -86,6 +86,27 @@
             <artifactId>specification-arg-resolver</artifactId>
             <version>2.1.1</version>
         </dependency>
+
+        <!-- Hibernate Validator -->
+        <dependency>
+            <groupId>org.hibernate.validator</groupId>
+            <artifactId>hibernate-validator</artifactId>
+            <version>6.0.17.Final</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.glassfish</groupId>
+            <artifactId>javax.el</artifactId>
+            <version>3.0.1-b09</version>
+        </dependency>
+
+        <!-- ESAPI -->
+        <dependency>
+            <groupId>org.owasp.esapi</groupId>
+            <artifactId>esapi</artifactId>
+            <version>2.1.0.1</version>
+        </dependency>
+
     </dependencies>
 
     <build>
